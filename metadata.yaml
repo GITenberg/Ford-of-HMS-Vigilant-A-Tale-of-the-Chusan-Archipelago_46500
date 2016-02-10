@@ -1,0 +1,33 @@
+_repo: Ford-of-HMS-Vigilant-A-Tale-of-the-Chusan-Archipelago_46500
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, William
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 46500/46500-rst/images/img-cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Jeans, T. T. (Thomas Tendron)
+    alias: Jeans, Thomas Tendron
+    gutenberg_agent_id: '43520'
+    url: http://www.gutenberg.org/2009/agents/43520
+description: ''
+gutenberg_issued: '2014-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: "Ford of H.M.S. Vigilant\r\nA Tale of the Chusan Archipelago"
+url: http://www.gutenberg.org/ebooks/46500
