@@ -1,4 +1,5 @@
 _repo: Ford-of-HMS-Vigilant-A-Tale-of-the-Chusan-Archipelago_46500
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Rainey, W. (William)
@@ -11,9 +12,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/9704
 covers:
 - cover_type: archival
-  image_path: 46500/46500-rst/images/img-cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46500-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Jeans, T. T. (Thomas Tendron)
@@ -21,6 +20,8 @@ creator:
     gutenberg_agent_id: '43520'
     url: http://www.gutenberg.org/2009/agents/43520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46500#Ford-of-HMS-Vigilant-A-Tale-of-the-Chusan-Archipelago
 gutenberg_issued: '2014-08-03'
 gutenberg_type: Text
 identifiers:
